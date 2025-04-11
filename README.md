@@ -58,7 +58,7 @@ Here is a list of the projects included in this repository:
 
    **Skills**: Date/time functions, text parsing and manipulation, PostgreSQL extensions and full-text search
 
-5. [**Analyzing Students' Mental Health**](https://github.com/nalapalu/SQL_portfolio-projects/tree/main/Analyzing%20Students'%20Mental%20Health)
+5. [**Analyzing Students' Mental Health**](https://github.com/nalapalu/SQL_portfolio-projects/blob/main/Analyzing%20Students'%20Mental%20Health/notebook.ipynb)
 
    **Objectives**:
    - Investigate whether studying in a different country affects mental health
