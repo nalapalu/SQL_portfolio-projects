@@ -1,4 +1,4 @@
-### 📊 Analysing World leaders database by Joining Data in SQL
+### 📊 Joining data in SQL - Analysing World Leaders Database
 
 #### 📁 Dataset
 > This project uses the world leaders database from Datacamp
