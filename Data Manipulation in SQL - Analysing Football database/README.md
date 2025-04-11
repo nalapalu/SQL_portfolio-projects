@@ -6,7 +6,7 @@ Data Manipulation in SQL - Analysing European Soccer Database
 
 #### 🎯 Objective
 - Manipulate, transform, and make the most sense of your data
-- wWangle, filter, and categorize information in a relational database, 
+- Wrangle, filter, and categorize information in a relational database, 
 - Expand your SQL toolkit, and answer complex question
 - CASE statements, subqueries, and window functions
 
